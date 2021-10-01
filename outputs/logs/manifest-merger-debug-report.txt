@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\6747f1b4d537ce0ee8bc7ee8afbc4083\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\01ebbcc53ff1c876822b1ce7aa410125\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\e45b384ff6bb463002986144d10575e3\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ea205b06daf14210c4ba84c5edb37a83\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d6489765c1d563ef82dde480fd057498\jetified-volley-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\03bd665cb7431478159631fe84677d59\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\f8a65c17746839c924d457552311bbb9\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3bffaec18dcebad78990c82f2a748d48\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\7927b1f325a1dd24b099054df660c152\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\daad03d203c2dc98310c491966f00ecb\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\174f48c2adccd9512b1256e12141364c\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\70f5e4d25086c90a0f1b7fcfb332be6d\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\88989b9513d2863dae6361f1e16c0bcd\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\25827d6363d7b1db81f6d594089c9b9c\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b0fb54900c28b52c7a631520bdac527\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\530a0eb51ef4daf400b11fe0a0761094\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\6747f1b4d537ce0ee8bc7ee8afbc4083\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\6747f1b4d537ce0ee8bc7ee8afbc4083\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\01ebbcc53ff1c876822b1ce7aa410125\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\01ebbcc53ff1c876822b1ce7aa410125\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\25827d6363d7b1db81f6d594089c9b9c\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\25827d6363d7b1db81f6d594089c9b9c\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:16:9-28
+	android:icon
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:15:9-44
+activity#com.example.volleysample.UpdateActivity
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:17:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.volleysample.MainActivity
+ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\6747f1b4d537ce0ee8bc7ee8afbc4083\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\6747f1b4d537ce0ee8bc7ee8afbc4083\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\01ebbcc53ff1c876822b1ce7aa410125\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\01ebbcc53ff1c876822b1ce7aa410125\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\e45b384ff6bb463002986144d10575e3\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\e45b384ff6bb463002986144d10575e3\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ea205b06daf14210c4ba84c5edb37a83\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ea205b06daf14210c4ba84c5edb37a83\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d6489765c1d563ef82dde480fd057498\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d6489765c1d563ef82dde480fd057498\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\03bd665cb7431478159631fe84677d59\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\03bd665cb7431478159631fe84677d59\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\f8a65c17746839c924d457552311bbb9\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\f8a65c17746839c924d457552311bbb9\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3bffaec18dcebad78990c82f2a748d48\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3bffaec18dcebad78990c82f2a748d48\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\7927b1f325a1dd24b099054df660c152\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\7927b1f325a1dd24b099054df660c152\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a943be3b742b145f13cdb42d1a07dbb3\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\daad03d203c2dc98310c491966f00ecb\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\daad03d203c2dc98310c491966f00ecb\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\174f48c2adccd9512b1256e12141364c\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\174f48c2adccd9512b1256e12141364c\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\70f5e4d25086c90a0f1b7fcfb332be6d\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\70f5e4d25086c90a0f1b7fcfb332be6d\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\88989b9513d2863dae6361f1e16c0bcd\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\88989b9513d2863dae6361f1e16c0bcd\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\25827d6363d7b1db81f6d594089c9b9c\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\25827d6363d7b1db81f6d594089c9b9c\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b0fb54900c28b52c7a631520bdac527\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b0fb54900c28b52c7a631520bdac527\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\530a0eb51ef4daf400b11fe0a0761094\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\530a0eb51ef4daf400b11fe0a0761094\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\PARK CHAN HO\.gradle\caches\transforms-2\files-2.1\bef2ac585d83c283d2fd49a0b9ae8f63\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PARK CHAN HO\AndroidStudioProjects\newSelftStudy\volleysample\src\main\AndroidManifest.xml
